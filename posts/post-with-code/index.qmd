@@ -4,6 +4,7 @@ author: "Harlow Malloc"
 date: "2022-11-27"
 categories: [news, code, analysis]
 image: "image.jpg"
+bibliography: "references.bib"
 ---
 
 This is a post with executable code.
@@ -11,3 +12,9 @@ This is a post with executable code.
 ```{python}
 print(42*1)
 ```
+
+$$ \sum \frac{1}{n^2} = \frac{\pi^2}{6} $$
+
+asdf hi [^1] [@Omar2013HowTM]
+
+[^1]: asdf
